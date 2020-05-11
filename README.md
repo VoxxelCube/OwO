@@ -9,7 +9,7 @@ So, f you want to run this script:
 1. Turn on your computer.
 2. Download Wishmaster.exe.
 3. Run it.
-4. Subscribe to Karina Streamersha (https://www.youtube.com/channel/UCxgOetpLyBhtlVBQ70XfIAQ).
+4. Subscribe to [Karina Streamersha](https://www.youtube.com/channel/UCxgOetpLyBhtlVBQ70XfIAQ).
 
 Also technologies you will need:
 1. React
